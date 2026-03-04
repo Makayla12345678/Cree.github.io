@@ -20,7 +20,7 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
     margin: 0;
     padding: 0;
     background-color: var(--bg-color);
@@ -39,7 +39,7 @@ header {
 }
 
 header h1 {
-    font-family: Georgia, serif;
+    font-family: 'Lora', serif;
     color: var(--secondary-color);
     margin: 0;
     font-size: 3.5rem;
@@ -49,7 +49,7 @@ header h1 {
 }
 
 header p {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
     color: var(--primary-color);
     margin-top: 0.5rem;
     font-size: 1.2rem;
@@ -69,7 +69,7 @@ nav button {
     color: var(--secondary-color);
     padding: 0.8rem 2.5rem;
     margin: 0 1rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     font-size: 1.1rem;
     cursor: pointer;
     transition: all 0.4s ease;
@@ -110,7 +110,7 @@ section {
 }
 
 h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     color: var(--secondary-color);
     border-bottom: 2px solid var(--primary-color);
     /* Underline instead of side border */
@@ -121,7 +121,7 @@ h2 {
 }
 
 .subtitle {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     color: var(--light-text);
     margin-bottom: 3rem;
     font-style: italic;
@@ -188,7 +188,7 @@ h2 {
     height: 100%;
     object-fit: cover;
     color: var(--secondary-color);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
 }
 
 .card-content {
@@ -200,7 +200,7 @@ h2 {
 }
 
 .cree-word {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     font-size: 2rem;
     font-weight: 700;
     /* Bold */
@@ -210,7 +210,7 @@ h2 {
 }
 
 .english-word {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
     font-size: 1.1rem;
     font-weight: 400;
     color: var(--primary-color);
@@ -223,7 +223,7 @@ h2 {
 }
 
 .definition {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     /* Serif for body text in luxury contexts works well */
     font-size: 1.05rem;
     color: var(--text-color);
@@ -240,7 +240,7 @@ footer {
     text-align: center;
     padding: 3rem 0;
     margin-top: 5rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
     letter-spacing: 1px;
 }
 
