@@ -2,123 +2,123 @@ const appData = {
     "words": [
         {
             "cree": "Tânisi",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "Hello / How are you",
+            "definition": "Used as a greeting.\nExample: \"Hello mother!\"",
+            "image": ""
         },
         {
             "cree": "Namôya nânitaw",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "I'm fine",
+            "definition": "A phrase used to signify someone is ok.\nExample: \"Don't worry I'm fine.\"",
+            "image": ""
         },
         {
-            "cree": "Kinanaskomitin",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "cree": "Kinanâskomitin",
+            "english": "I thank you",
+            "definition": "Used to thank someone.\nExample: \"Thank you for doing that for me!\"",
+            "image": ""
         },
         {
-            "cree": "Hiy Hiy / Ah hay",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "cree": "Hiy Hiy",
+            "english": "Thank you (non formal)",
+            "definition": "Used to thank someone, mostly after a favour of some kind.\nExample: \"Thanks for helping. It got so much work done because of your help.\"",
+            "image": ""
         },
         {
             "cree": "Nitôtêmak",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "My friends",
+            "definition": "Typically used after Tansi.\nExample: \"Hello my friends!\"",
+            "image": ""
         },
         {
             "cree": "Kiya",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "You",
+            "definition": "Used to address someone.\nExample: \"I love you.\"",
+            "image": ""
         },
         {
-            "cree": "Niyânan",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "cree": "Niyanân",
+            "english": "We / Us / Ours",
+            "definition": "Used to address multiple people in first person.\nExample: \"We did it! I'm so proud.\"",
+            "image": ""
         },
         {
-            "cree": "Kiyayâw",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "cree": "Ah po",
+            "english": "Maybe",
+            "definition": "Used most commonly to express possibility.\nExample: \"Maybe I will go to the store today, I have to get some avocados.\"",
+            "image": ""
         },
         {
             "cree": "Epimpahtât",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "Running",
+            "definition": "The act of moving one foot in front of the other in a fast pace.\nExample: \"I just won the running race! I beat my opponent by two minutes.\"",
+            "image": ""
         },
         {
             "cree": "Ehopit",
-            "english": "",
-            "definition": "",
-            "image": "images/placeholder.svg"
+            "english": "Jumping",
+            "definition": "The act of pushing off a surface with one's legs and becoming airborne.\nExample: \"I was jumping so high, I almost touched the sky.\"",
+            "image": ""
         },
         {
             "cree": "Ehapit",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Enîmihtot",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Emîcisot",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Enipât",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Epîkiskwet",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Emasinahiket",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Nipiy",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Miyosin",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Mispon",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         },
         {
             "cree": "Kisin",
             "english": "",
             "definition": "",
-            "image": "images/placeholder.svg"
+            "image": ""
         }
     ],
     "constellations": [
