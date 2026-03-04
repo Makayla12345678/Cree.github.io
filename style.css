@@ -250,8 +250,16 @@ h2 {
     font-weight: 700;
     /* Bold */
     color: var(--secondary-color);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.2rem;
     letter-spacing: 0.5px;
+}
+
+.pronunciation {
+    font-family: 'Lora', serif;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    font-style: italic;
+    margin-bottom: 0.5rem;
 }
 
 .english-word {

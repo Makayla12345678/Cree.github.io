@@ -74,6 +74,9 @@ document.addEventListener('DOMContentLoaded', () => {
             exampleText = exampleText.replace(/^"|"$/g, '').trim();
             let backContent = exampleText ? `"${exampleText}"` : 'No example provided.';
 
+            // Format Pronunciation
+            let pronunciationHtml = word.pronunciation ? `<div class="pronunciation">[${word.pronunciation}]</div>` : '';
+
             card.innerHTML = `
                 <div class="card-inner">
                     <div class="card-front">
@@ -86,6 +89,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     <div class="card-back">
                         <div class="card-content">
+                            <div class="cree-word">${word.cree}</div>
+                            ${pronunciationHtml}
+                            <hr style="width: 50%; border-color: var(--accent-color); margin: 1.5rem auto;">
                             <div class="english-word">Example usage</div>
                             <div class="definition example-text">${backContent}</div>
                         </div>
@@ -116,6 +122,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 imageHtml = `<div class="card-image"><img src="${item.image}" alt="${item.creeName}"></div>`;
             }
 
+            // Format Pronunciation
+            let pronunciationHtml = item.pronunciation ? `<div class="pronunciation">[${item.pronunciation}]</div>` : '';
+
             card.innerHTML = `
                 <div class="card-inner">
                     <div class="card-front">
@@ -128,6 +137,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     <div class="card-back">
                         <div class="card-content">
+                            <div class="cree-word">${item.creeName}</div>
+                            ${pronunciationHtml}
+                            <hr style="width: 50%; border-color: var(--accent-color); margin: 1.5rem auto;">
                             <div class="english-word">About</div>
                             <div class="definition example-text">${item.description || 'Not available'}</div>
                         </div>
