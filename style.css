@@ -155,8 +155,13 @@ h2 {
     background: var(--card-bg);
 }
 
-.card:hover .card-inner {
+.card.is-flipped .card-inner {
     transform: rotateY(180deg);
+    box-shadow: var(--hover-shadow);
+    border-color: var(--primary-color);
+}
+
+.card:hover .card-inner {
     box-shadow: var(--hover-shadow);
     border-color: var(--primary-color);
 }

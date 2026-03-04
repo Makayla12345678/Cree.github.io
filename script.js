@@ -94,6 +94,11 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
 
             dictionaryGrid.appendChild(card);
+
+            // Add click listener for flipping
+            card.addEventListener('click', () => {
+                card.classList.toggle('is-flipped');
+            });
         });
     }
 
@@ -131,6 +136,11 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
 
             constellationsGrid.appendChild(card);
+
+            // Add click listener for flipping
+            card.addEventListener('click', () => {
+                card.classList.toggle('is-flipped');
+            });
         });
     }
 });
