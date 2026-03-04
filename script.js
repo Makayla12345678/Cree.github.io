@@ -56,12 +56,40 @@ document.addEventListener('DOMContentLoaded', () => {
                 imageHtml = `<div class="card-image"><img src="${word.image}" alt="${word.cree}"></div>`;
             }
 
+            // Extract the example if it exists
+            let mainDef = word.definition || '';
+            let exampleText = '';
+
+            if (mainDef.includes('\nExample: ')) {
+                const parts = mainDef.split('\nExample: ');
+                mainDef = parts[0];
+                exampleText = parts[1];
+            } else if (mainDef.includes('Example: ')) {
+                const parts = mainDef.split('Example: ');
+                mainDef = parts[0];
+                exampleText = parts[1];
+            }
+
+            // Clean quotes if any
+            exampleText = exampleText.replace(/^"|"$/g, '').trim();
+            let backContent = exampleText ? `"${exampleText}"` : 'No example provided.';
+
             card.innerHTML = `
-                ${imageHtml}
-                <div class="card-content">
-                    <div class="cree-word">${word.cree}</div>
-                    <div class="english-word">${word.english}</div>
-                    <div class="definition">${word.definition}</div>
+                <div class="card-inner">
+                    <div class="card-front">
+                        ${imageHtml}
+                        <div class="card-content">
+                            <div class="cree-word">${word.cree}</div>
+                            <div class="english-word">${word.english}</div>
+                            <div class="definition">${mainDef}</div>
+                        </div>
+                    </div>
+                    <div class="card-back">
+                        <div class="card-content">
+                            <div class="english-word">Example usage</div>
+                            <div class="definition example-text">${backContent}</div>
+                        </div>
+                    </div>
                 </div>
             `;
 
@@ -84,11 +112,21 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             card.innerHTML = `
-                ${imageHtml}
-                <div class="card-content">
-                    <div class="cree-word">${item.creeName}</div>
-                    <div class="english-word">${item.englishName}</div>
-                    <div class="definition">${item.description}</div>
+                <div class="card-inner">
+                    <div class="card-front">
+                        ${imageHtml}
+                        <div class="card-content">
+                            <div class="cree-word">${item.creeName}</div>
+                            <div class="english-word">${item.englishName}</div>
+                            <div class="definition">${item.description}</div>
+                        </div>
+                    </div>
+                    <div class="card-back">
+                        <div class="card-content">
+                            <div class="english-word">About</div>
+                            <div class="definition example-text">${item.description || 'Not available'}</div>
+                        </div>
+                    </div>
                 </div>
             `;
 
