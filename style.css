@@ -39,7 +39,7 @@ header {
 }
 
 header h1 {
-    font-family: 'Playfair Display', serif;
+    font-family: Georgia, serif;
     color: var(--secondary-color);
     margin: 0;
     font-size: 3.5rem;
