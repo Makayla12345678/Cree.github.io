@@ -3,11 +3,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Element References
     const dictionarySection = document.getElementById('dictionary-section');
     const constellationsSection = document.getElementById('constellations-section');
+    const historySection = document.getElementById('history-section');
     const dictionaryGrid = document.getElementById('dictionary-grid');
     const constellationsGrid = document.getElementById('constellations-grid');
 
     const btnDictionary = document.getElementById('btn-dictionary');
     const btnConstellations = document.getElementById('btn-constellations');
+    const btnHistory = document.getElementById('btn-history');
 
     // Load Data from global variable
     try {
@@ -27,18 +29,31 @@ document.addEventListener('DOMContentLoaded', () => {
         showSection('constellations');
     });
 
+    btnHistory.addEventListener('click', () => {
+        showSection('history');
+    });
+
     // Function to Switch Sections
     function showSection(sectionName) {
+        // Reset all
+        dictionarySection.style.display = 'none';
+        constellationsSection.style.display = 'none';
+        historySection.style.display = 'none';
+
+        btnDictionary.classList.remove('active');
+        btnConstellations.classList.remove('active');
+        btnHistory.classList.remove('active');
+
+        // Show selected
         if (sectionName === 'dictionary') {
             dictionarySection.style.display = 'block';
-            constellationsSection.style.display = 'none';
             btnDictionary.classList.add('active');
-            btnConstellations.classList.remove('active');
-        } else {
-            dictionarySection.style.display = 'none';
+        } else if (sectionName === 'constellations') {
             constellationsSection.style.display = 'block';
-            btnDictionary.classList.remove('active');
             btnConstellations.classList.add('active');
+        } else if (sectionName === 'history') {
+            historySection.style.display = 'block';
+            btnHistory.classList.add('active');
         }
     }
 
