@@ -72,71 +72,71 @@ const appData = {
         },
         {
             "cree": "Ehapit",
-            "english": "",
-            "definition": "",
+            "english": "She/he is sitting",
+            "definition": "This is used to describe the action of someone being on a surface without standing.\nExample: \"She is sitting on a very comfortable chair.\"",
             "pronunciation": "eh-ha-pit",
             "image": ""
         },
         {
             "cree": "Enîmihtot",
-            "english": "",
-            "definition": "",
+            "english": "Dancing",
+            "definition": "This is the action of moving to the rhythm or beat of a piece of music.\nExample: \"She is dancing so well, it is truly a piece of art.\"",
             "pronunciation": "eh-nee-mih-tot",
             "image": ""
         },
         {
             "cree": "Emîcisot",
-            "english": "",
-            "definition": "",
+            "english": "Eating",
+            "definition": "This is the act of putting food in one's mouth and swallowing it. This words derives from the root word mîciso which means to eat.\nExample: \"This food is so good, I am going to be eating all of it!\"",
             "pronunciation": "eh-mee-chi-sot",
             "image": ""
         },
         {
             "cree": "Enipât",
-            "english": "",
-            "definition": "",
+            "english": "Sleeping",
+            "definition": "This is used to describe the natural state altered consciousness used as a way to rest.\nExample: \"He is sleeping so deeply.\"",
             "pronunciation": "eh-ni-paht",
             "image": ""
         },
         {
             "cree": "Epîkiskwet",
-            "english": "",
-            "definition": "",
+            "english": "She/he is talking",
+            "definition": "The action of verbally speaking.\nExample: \"I am talking so much!\"",
             "pronunciation": "eh-pee-kis-kwet",
             "image": ""
         },
         {
             "cree": "Emasinahiket",
-            "english": "",
-            "definition": "",
+            "english": "Writing",
+            "definition": "The formation of multiple letters combined to express words or ideas.\nExample: \"That writing was great, you clearly demonstrated your point.\"",
             "pronunciation": "eh-ma-si-na-hi-ket",
             "image": ""
         },
         {
             "cree": "Nipiy",
-            "english": "",
-            "definition": "",
+            "english": "Water",
+            "definition": "The fluid found in oceans and lakes.\nExample: \"The water is so calm at this time of day.\"",
             "pronunciation": "ni-pee",
             "image": ""
         },
         {
-            "cree": "Miyosin",
-            "english": "",
-            "definition": "",
+            "cree": "Miywâsin",
+            "english": "It is good / It is nice",
+            "definition": "Used to signify that something is to one's liking.\nExample: \"This cake amazing. It is so good!\"",
             "pronunciation": "mee-yo-sin",
             "image": ""
         },
         {
             "cree": "Mispon",
-            "english": "",
-            "definition": "",
+            "english": "It is snowing",
+            "definition": "Used to describe a snowfall.\nExample: \"It is snowing so much outside, I hope I can still drive!\"",
             "pronunciation": "mis-pon",
             "image": ""
         },
         {
             "cree": "Kisin",
-            "english": "",
-            "definition": "",
+            "english": "It is cold",
+            "definition": "Used to describe a frigid temperature outside or inside.\nExample: \"It is cold outside, I wouldn't recommend walking.\"",
             "pronunciation": "ki-sin",
             "image": ""
         }
