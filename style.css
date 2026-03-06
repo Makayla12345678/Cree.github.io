@@ -203,7 +203,7 @@ h2 {
     height: 220px;
     /* Taller images */
     width: 100%;
-    background-color: var(--accent-color);
+    background-color: var(--secondary-color);
     display: flex;
     align-items: center;
     justify-content: center;
