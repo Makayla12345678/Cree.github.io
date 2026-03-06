@@ -147,7 +147,7 @@ const appData = {
             "englishName": "The Fisher Stars",
             "description": "Known as the \"Fisher Stars\". Often identified as The Big Dipper/Ursa Major. It represents a fisher marten with an arrow in its tail. (Just like Ochek in The Barren Grounds).",
             "pronunciation": "oh-chek ah-cha-kos-uk",
-            "image": "images/placeholder.svg",
+            "image": "images/Ochekatchakosuk image .jpeg",
             "story": "Long ago, the world was stuck in an eternal winter, so the Creator sent Ochek (a fisher) to bring summer to the north. After releasing the summer from the sky world, Ochek was shot and killed. In honor of him and his bravery, The Creator placed the shape of Ochek into the stars."
         },
         {
@@ -155,7 +155,7 @@ const appData = {
             "englishName": "The Great Bear",
             "description": "Known as \"The Great Bear\" (Part of Ursa Major / The Big Dipper). Serves as a tool about strength and respect. It also represents a bear.",
             "pronunciation": "mis-ta mus-kwa",
-            "image": "images/placeholder.svg",
+            "image": "images/Mista Muskwa image .avif",
             "story": "The story of the Mista Muskwa is about a selfish, harmful bear, who destroyed homes and ruined the land. The Seven Birds chased the bear into the sky to restore the land. This represents how persistence and unity can overcome selfishness and greed. The chase comes yearly around the 11th or 12th moon. As the birds attack the bear, his blood falls to the earth, turning the leaves of the trees red, which explains the arrival of fall."
         },
         {
