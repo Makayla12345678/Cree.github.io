@@ -155,8 +155,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <div class="cree-word">${item.creeName}</div>
                             ${pronunciationHtml}
                             <hr style="width: 50%; border-color: var(--accent-color); margin: 1.5rem auto;">
-                            <div class="english-word">About</div>
-                            <div class="definition example-text">${item.description || 'Not available'}</div>
+                            <div class="english-word">${item.story ? 'Story' : 'About'}</div>
+                            <div class="definition example-text">${item.story || item.description || 'Not available'}</div>
                         </div>
                     </div>
                 </div>
