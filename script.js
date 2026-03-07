@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             ${pronunciationHtml}
                             <hr style="width: 50%; border-color: var(--accent-color); margin: 1.5rem auto;">
                             <div class="english-word">${item.story ? 'Story' : 'About'}</div>
-                            <div class="definition example-text">${item.story || item.description || 'Not available'}</div>
+                            <div class="definition story-text">${item.story || item.description || 'Not available'}</div>
                         </div>
                     </div>
                 </div>
