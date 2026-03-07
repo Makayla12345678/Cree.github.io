@@ -159,18 +159,20 @@ const appData = {
             "story": "The story of the Mista Muskwa is about a selfish, harmful bear, who destroyed homes and ruined the land. The Seven Birds chased the bear into the sky to restore the land. This represents how persistence and unity can overcome selfishness and greed. The chase comes yearly around the 11th or 12th moon. As the birds attack the bear, his blood falls to the earth, turning the leaves of the trees red, which explains the arrival of fall."
         },
         {
-            "creeName": "Wesakaychack",
-            "englishName": "",
-            "description": "",
-            "pronunciation": "wee-sa-kay-chak",
-            "image": "images/placeholder.svg"
+            "creeName": "Mistapiw",
+            "englishName": "The Giant (Orion)",
+            "description": "Known as the Giant, commonly known as the constellation Orion. It is a significant winter constellation representing the trickster and hero named Wesakaychack. Whenever this constellation appears in the sky, it means that it is time to share these teachings. These teachings are often humorous and about learning from your mistakes which Wesakaychack does.",
+            "pronunciation": "mis-ta-piw",
+            "image": "images/Mistapew_image.jpg",
+            "story": "The story is about a being (mostly as a furry animal, rock, or small animal) named Wesakaychack. Wesakaychack has many stories associated with him, I will share two of the most significant. Firstly, \"The Great Flood and Creation\". After a huge flood Wesakaychack builds a raft to save himself and other animals. He realizes that he must produce new land so he sends animals to dive to the bottom of the ocean. The muskrat finally succeeds and brings up a small piece of dirt, which Wesakaychack blows on to expand into the earth we know today. Secondly \"The Moon Ride\". Wesakaychack tried to ride the moon but as it decreased in size, he fell off, falling all the way down to earth and creating the \"muskeg\" (swampy land)."
         },
         {
             "creeName": "Keewatin",
-            "englishName": "",
-            "description": "",
+            "englishName": "Going Home Star / It Stands Still (Polaris)",
+            "description": "Meaning \"Going Home Star\" or \"It Stands Still\". Is (in western culture) the North star (Polaris). Keewatin is a guiding light that helps travelers find their way home. Historically, Cree travellers kept Keewatin on their right shoulder while walking at night, this way they knew they were travelling west.",
             "pronunciation": "kee-wa-tin",
-            "image": "images/placeholder.svg"
+            "image": "images/Keewatin_image.jpg",
+            "story": "While there is not much of a story for this constellation, it is often connected to other constellations and their story. Keewatin is often connected to the Mista Muskwa story. It also is known to represent a \"hole in the sky\" or a place where humans are born and return, this acts a as a reminder of the connection from the universe to us."
         },
         {
             "creeName": "Pakwan Gizek",
