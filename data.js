@@ -207,11 +207,12 @@ const appData = {
             "story": "A hunter named Ponoka, hunted and killed a great elk. He shared the meat with his entire village and dried the skin while stretching it by putting wooden stakes through it. To honour the animal and all that it gave, the hunter threw the hide into the sky. The five bright stars of this constellation are told to be the five holes from the stakes that Ponoka put in the hide."
         },
         {
-            "creeName": "Ahkuhi",
-            "englishName": "",
-            "description": "",
-            "pronunciation": "ah-ku-hee",
-            "image": "images/placeholder.svg"
+            "creeName": "Mikinak",
+            "englishName": "The Turtle / Turtle Star (Auriga)",
+            "description": "A very important Cree constellation. In Western culture this constellation is known as Auriga (the charioteer). This constellation serves as an actual, physical calendar in the sky. This constellation represents a turtle whose shell reflects the thirteen moons of the year and the twenty-eight days in between them. Mikinak is also positioned close to the Milky Way.",
+            "pronunciation": "mi-ki-nak",
+            "image": "images/placeholder.svg",
+            "story": "This constellation once again serves more as a tool than an educational story but it is one of the most important. It serves as a calendar with its thirteen main shell sections as the moons and the twenty-eight edges as the days between the moons. It also signals changes like the return of eagles and frogs. On top of this, Mikinak represents the turtle from First Nations creation stories, whose shell or back became Turtle Island (North America)."
         },
         {
             "creeName": "Ajiijaak",
