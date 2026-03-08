@@ -179,7 +179,7 @@ const appData = {
             "englishName": "Hole in the Sky (The Pleiades)",
             "description": "Refers to the star cluster known in Western astronomy as the Pleiades. It represents a doorway or portal through which spirits enter earth (Ota Aski) and return to the spirit world upon death. It also represents a sacred location in the sky.",
             "pronunciation": "pak-wan gee-zek",
-            "image": "images/placeholder.svg",
+            "image": "images/Pakone_Kisik_image.jpeg",
             "story": "According to Cree tradition, this portal was where the first human Achakos Iskwew (Star Woman) descended to earth bringing her knowledge and spirit with her. She was lowered to earth by Kokominakasis (Grandmother Spider) using a strand of webbing. It is viewed as a place to receive guidance, healing, and knowledge. It is also connected to the concept of dreams."
         },
         {
@@ -187,7 +187,7 @@ const appData = {
             "englishName": "The Dog Stars (Little Dipper / Ursa Minor)",
             "description": "A Cree constellation known as the Little Dipper (Ursa Minor) in Western culture. Including Polaris (the North Star/Wolf Star) as the anchor. It represents the gift from the wolf, coyote, and fox to protect the humans. The handle represents the dogs while the bowl represents the puppies that the dogs sent out to protect the humans.",
             "pronunciation": "a-ti-ma a-cha-kos-uk",
-            "image": "images/placeholder.svg",
+            "image": "images/Atima_Atchakosuk_image.jpeg",
             "story": "Long ago, humans were very defenseless and needed a lot of help with labor. Out of sympathy, the wolf, coyote, and fox decided to send four puppies to live with the humans to help. To honor this, the Creator placed them in the sky. As well as the little dipper, this constellation is also connected to the North Star (Polaris) which acts as a leash or anchor. This story tells us why dogs are so vital to humans."
         },
         {
@@ -203,7 +203,7 @@ const appData = {
             "englishName": "The Elk (Cassiopeia)",
             "description": "A constellation that Western culture knows as Cassiopeia. This constellation is shaped as a \"W\", and represents the stretched hide of a great elk (Ponoka). Ponoka is a \"circumpolar\" constellation meaning that it is visible all year round in the northern sky. This constellation is defined by five \"main\" stars but the constellation actually contains approximately 157 stars!",
             "pronunciation": "po-no-ka",
-            "image": "images/placeholder.svg",
+            "image": "images/Ponoka_image.jpeg",
             "story": "A hunter named Ponoka, hunted and killed a great elk. He shared the meat with his entire village and dried the skin while stretching it by putting wooden stakes through it. To honour the animal and all that it gave, the hunter threw the hide into the sky. The five bright stars of this constellation are told to be the five holes from the stakes that Ponoka put in the hide."
         },
         {
@@ -211,7 +211,7 @@ const appData = {
             "englishName": "The Turtle / Turtle Star (Auriga)",
             "description": "A very important Cree constellation. In Western culture this constellation is known as Auriga (the charioteer). This constellation serves as an actual, physical calendar in the sky. This constellation represents a turtle whose shell reflects the thirteen moons of the year and the twenty-eight days in between them. Mikinak is also positioned close to the Milky Way.",
             "pronunciation": "mi-ki-nak",
-            "image": "images/placeholder.svg",
+            "image": "images/Mikinak_image.jpeg",
             "story": "This constellation once again serves more as a tool than an educational story but it is one of the most important. It serves as a calendar with its thirteen main shell sections as the moons and the twenty-eight edges as the days between the moons. It also signals changes like the return of eagles and frogs. On top of this, Mikinak represents the turtle from First Nations creation stories, whose shell or back became Turtle Island (North America)."
         },
         {
@@ -219,7 +219,7 @@ const appData = {
             "englishName": "Sweat Lodge (Corona Borealis)",
             "description": "Known as Corona Borealis (the Northern Crown) in Western astronomy. This constellation represents a domed lodge, often linked to the story of a young man named Tikoom. This constellation is in the shape of a dome and serves as a reminder of a place for healing and spiritual connection.",
             "pronunciation": "ma-too-ti-san",
-            "image": "images/placeholder.svg",
+            "image": "images/Matootisan_image.jpg",
             "story": "Once there was a man named Tikoom who had seven uncles. He lived in a time of scarcity and sickness. There came a time where food was much needed for the community so his uncles decided to set out to get some. Tikoom waited for them to return but three days later they still hadn't come back. So, Tikoom decided to go find them. While sleeping in the forest on his journey he had a dream of his uncles telling him exactly how to build a Sweat Lodge and release their spirits which were trapped in the rocks in the Sweat Lodge. Tikoom did just this while singing and praying. Finally, he released his uncles' spirits! To honour him the Creator gave him a ceremony and a new name, Assini Awasis - Stone Child.\n\nFun fact 1: The seven main stars in this constellation represent the seven uncles.\nFun fact 2: The sweat lodge is now a place where people go to heal themselves and their spirits."
         }
     ]
