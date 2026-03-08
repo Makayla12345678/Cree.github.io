@@ -144,10 +144,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="card-inner">
                     <div class="card-front">
                         ${imageHtml}
-                        <div class="card-content">
+                        <div class="card-content story-padding">
                             <div class="cree-word">${item.creeName}</div>
                             <div class="english-word">${item.englishName}</div>
-                            <div class="definition">${item.description}</div>
+                            <div class="definition story-text">${item.description}<br><br>${item.story ? item.story : ''}</div>
                         </div>
                     </div>
                     <div class="card-back">
