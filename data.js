@@ -175,25 +175,27 @@ const appData = {
             "story": "While there is not much of a story for this constellation, it is often connected to other constellations and their story. Keewatin is often connected to the Mista Muskwa story. It also is known to represent a \"hole in the sky\" or a place where humans are born and return, this acts a as a reminder of the connection from the universe to us."
         },
         {
-            "creeName": "Pakwan Gizek",
-            "englishName": "",
-            "description": "",
+            "creeName": "Pakone Kisik",
+            "englishName": "Hole in the Sky (The Pleiades)",
+            "description": "Refers to the star cluster known in Western astronomy as the Pleiades. It represents a doorway or portal through which spirits enter earth (Ota Aski) and return to the spirit world upon death. It also represents a sacred location in the sky.",
             "pronunciation": "pak-wan gee-zek",
-            "image": "images/placeholder.svg"
+            "image": "images/placeholder.svg",
+            "story": "According to Cree tradition, this portal was where the first human Achakos Iskwew (Star Woman) descended to earth bringing her knowledge and spirit with her. She was lowered to earth by Kokominakasis (Grandmother Spider) using a strand of webbing. It is viewed as a place to receive guidance, healing, and knowledge. It is also connected to the concept of dreams."
         },
         {
             "creeName": "Atima Atchakosuk",
-            "englishName": "",
-            "description": "",
+            "englishName": "The Dog Stars (Little Dipper / Ursa Minor)",
+            "description": "A Cree constellation known as the Little Dipper (Ursa Minor) in Western culture. Including Polaris (the North Star/Wolf Star) as the anchor. It represents the gift from the wolf, coyote, and fox to protect the humans. The handle represents the dogs while the bowl represents the puppies that the dogs sent out to protect the humans.",
             "pronunciation": "a-ti-ma a-cha-kos-uk",
-            "image": "images/placeholder.svg"
+            "image": "images/placeholder.svg",
+            "story": "Long ago, humans were very defenseless and needed a lot of help with labor. Out of sympathy, the wolf, coyote, and fox decided to send four puppies to live with the humans to help. To honor this, the Creator placed them in the sky. As well as the little dipper, this constellation is also connected to the North Star (Polaris) which acts as a leash or anchor. This story tells us why dogs are so vital to humans."
         },
         {
-            "creeName": "Kakakew",
-            "englishName": "",
-            "description": "",
-            "pronunciation": "ka-ka-kew",
-            "image": "images/placeholder.svg"
+            "creeName": "Niska",
+            "englishName": "The Goose (Cygnus)",
+            "description": "A Cree constellation that is known as Cygnus (the Swan) in Western astronomy. It represents a goose flying along the Milky Way (the Summer Bird's Path), and is associated with the return of spring and migratory patterns.",
+            "pronunciation": "nis-ka",
+            "image": "images/Niska_image.jpeg"
         },
         {
             "creeName": "Miki Ckwan",
