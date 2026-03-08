@@ -144,7 +144,7 @@ const appData = {
     "constellations": [
         {
             "creeName": "Ochek Atchakosuk",
-            "englishName": "The Fisher Stars",
+            "englishName": "The Fisher Stars (1st perspective of how the Big Dipper came to be)",
             "description": "Known as the \"Fisher Stars\". Often identified as The Big Dipper/Ursa Major. It represents a fisher marten with an arrow in its tail. (Just like Ochek in The Barren Grounds).",
             "pronunciation": "oh-chek ah-cha-kos-uk",
             "image": "images/Ochekatchakosuk_image.jpeg",
@@ -152,7 +152,7 @@ const appData = {
         },
         {
             "creeName": "Mista Muskwa",
-            "englishName": "The Great Bear",
+            "englishName": "The Great Bear (2nd perspective of how the Big Dipper came to be)",
             "description": "Known as \"The Great Bear\" (Part of Ursa Major / The Big Dipper). Serves as a tool about strength and respect. It also represents a bear.",
             "pronunciation": "mis-ta mus-kwa",
             "image": "images/Mista_Muskwa_image.avif",
