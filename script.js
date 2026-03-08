@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card-content story-padding">
                             <div class="cree-word">${item.creeName}</div>
                             <div class="english-word">${item.englishName}</div>
-                            <div class="definition story-text">${item.description}<br><br>${item.story ? item.story : ''}</div>
+                            <div class="definition story-text">${item.description}</div>
                         </div>
                     </div>
                     <div class="card-back">
