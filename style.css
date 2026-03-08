@@ -128,6 +128,18 @@ h2 {
     font-size: 1.2rem;
 }
 
+.conclusion-text {
+    font-family: 'Lora', serif;
+    color: var(--secondary-color);
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-style: italic;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Grid Layout */
 .grid {
     display: grid;
