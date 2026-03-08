@@ -215,11 +215,12 @@ const appData = {
             "story": "This constellation once again serves more as a tool than an educational story but it is one of the most important. It serves as a calendar with its thirteen main shell sections as the moons and the twenty-eight edges as the days between the moons. It also signals changes like the return of eagles and frogs. On top of this, Mikinak represents the turtle from First Nations creation stories, whose shell or back became Turtle Island (North America)."
         },
         {
-            "creeName": "Ajiijaak",
-            "englishName": "",
-            "description": "",
-            "pronunciation": "a-jee-jahk",
-            "image": "images/placeholder.svg"
+            "creeName": "Matootisan",
+            "englishName": "Sweat Lodge (Corona Borealis)",
+            "description": "Known as Corona Borealis (the Northern Crown) in Western astronomy. This constellation represents a domed lodge, often linked to the story of a young man named Tikoom. This constellation is in the shape of a dome and serves as a reminder of a place for healing and spiritual connection.",
+            "pronunciation": "ma-too-ti-san",
+            "image": "images/placeholder.svg",
+            "story": "Once there was a man named Tikoom who had seven uncles. He lived in a time of scarcity and sickness. There came a time where food was much needed for the community so his uncles decided to set out to get some. Tikoom waited for them to return but three days later they still hadn't come back. So, Tikoom decided to go find them. While sleeping in the forest on his journey he had a dream of his uncles telling him exactly how to build a Sweat Lodge and release their spirits which were trapped in the rocks in the Sweat Lodge. Tikoom did just this while singing and praying. Finally, he released his uncles' spirits! To honour him the Creator gave him a ceremony and a new name, Assini Awasis - Stone Child.\n\nFun fact 1: The seven main stars in this constellation represent the seven uncles.\nFun fact 2: The sweat lodge is now a place where people go to heal themselves and their spirits."
         }
     ]
 };
