@@ -195,14 +195,16 @@ const appData = {
             "englishName": "The Goose (Cygnus)",
             "description": "A Cree constellation that is known as Cygnus (the Swan) in Western astronomy. It represents a goose flying along the Milky Way (the Summer Bird's Path), and is associated with the return of spring and migratory patterns.",
             "pronunciation": "nis-ka",
-            "image": "images/Niska_image.jpeg"
+            "image": "images/Niska_image.jpeg",
+            "story": "Although this constellation acts more as a tool than a story that we can learn from, it is still very important. Niska acts as an indicator for the return of spring or end of winter. This is because it represents a goose flying back towards the north. This is a very helpful constellation for hunters or for navigation in general. It also teaches us about seasonal cycles."
         },
         {
-            "creeName": "Miki Ckwan",
-            "englishName": "",
-            "description": "",
-            "pronunciation": "mi-ki shkwan",
-            "image": "images/placeholder.svg"
+            "creeName": "Ponoka",
+            "englishName": "The Elk (Cassiopeia)",
+            "description": "A constellation that Western culture knows as Cassiopeia. This constellation is shaped as a \"W\", and represents the stretched hide of a great elk (Ponoka). Ponoka is a \"circumpolar\" constellation meaning that it is visible all year round in the northern sky. This constellation is defined by five \"main\" stars but the constellation actually contains approximately 157 stars!",
+            "pronunciation": "po-no-ka",
+            "image": "images/placeholder.svg",
+            "story": "A hunter named Ponoka, hunted and killed a great elk. He shared the meat with his entire village and dried the skin while stretching it by putting wooden stakes through it. To honour the animal and all that it gave, the hunter threw the hide into the sky. The five bright stars of this constellation are told to be the five holes from the stakes that Ponoka put in the hide."
         },
         {
             "creeName": "Ahkuhi",
